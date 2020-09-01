@@ -17,10 +17,10 @@
     <h2>Question 1</h2>
     <!-- this is a paragraph element, each paragraph on the page is wrapped in a paragraph element -->
     <p>Q: When is a normal time for you to go to sleep?</p>
-    <p>A: </p>
+    <p>A: About 2am </p>
     <h2>Question 2</h2>
     <p>Q: What is your favorite bird?</p>
-    <p>A: </p>
+    <p>A: A Kiwi </p>
     <h2>Question 3</h2>
     <p>Q: What is the best food for a cool fall day?</p>
     <p>A: Pumpkin Bread </p>
