@@ -1,7 +1,9 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
   box-sizing: border-box;
 }
 body {
   font-family: 'Kanit', sans-serif;
+h1 {
+  font-family: 'Anton', sans-serif;
