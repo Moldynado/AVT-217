@@ -1,7 +1,7 @@
 * {
-  margin: 500;
+  margin: 500px;
   padding: 50;
-  box-sizing:200; border-box:200;
+  box-sizing:200; border-box:300;
 }
 body {
   background-color: #111111;
