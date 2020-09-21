@@ -1,7 +1,7 @@
 * {
   margin: 100;
   padding: 50;
-  box-sizing:150 border-box;
+  box-sizing:150 border-box:150;
 }
 body {
   font-family: 'Kanit', sans-serif;
