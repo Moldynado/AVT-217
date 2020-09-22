@@ -17,3 +17,6 @@ p {
 }
 a:visited {
   color: yellow;
+}
+a:hover {
+  color: whitesmoke; 
