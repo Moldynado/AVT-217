@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: (image-1);
+  background-image: url(../images/image-1);
   color: Red;
   font-family: 'Kanit', sans-serif;
   font-size: 50px;
