@@ -8,6 +8,7 @@ body {
   color: Red;
   font-family: 'Kanit', sans-serif;
   font-size: 50px;
+  font-style: italic;
   text-align: center;
 }
 p {
@@ -15,9 +16,10 @@ p {
   font-family: 'Kanit', sans-serif;
   font-size: 30px;
   font-weight: bold;
+  text-align: left;
 }
 a:visited {
-  color: 111111;
+  color: ;
 }
 a:hover {
   color: whitesmoke;
