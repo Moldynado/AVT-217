@@ -13,3 +13,5 @@ p {
   font-family: 'Kanit', sans-serif;
   font-size: 30px
 }
+a:visited {
+  color: yellow;
