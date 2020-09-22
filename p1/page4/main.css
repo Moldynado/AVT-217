@@ -1,15 +1,12 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body {
-  color: Red;
-  font-family: 'Kanit', sans-serif;
-  font-size: 50px
-}
 p {
-  color: Purple;
+  color: Violet;
   font-family: 'Kanit', sans-serif;
-  font-size: 30px
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
 }
+a:visited {
+  color: ;
+}
+a:hover {
+  color: whitesmoke;
