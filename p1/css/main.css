@@ -19,7 +19,7 @@ p {
   text-align: left;
 }
 a:visited {
-  color: yellow;
+  color: none;
 }
 a:hover {
   color: whitesmoke;
