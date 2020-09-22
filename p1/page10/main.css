@@ -4,13 +4,22 @@
   box-sizing: border-box;
 }
 body {
+  background-color: black;
   color: Red;
   font-family: 'Kanit', sans-serif;
-  font-size: 50px
+  font-size: 50px;
+  font-style: italic;
+  text-align: center;
 }
 p {
-  color: Purple;
+  color: Violet;
   font-family: 'Kanit', sans-serif;
-  font-size: 30px
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
 }
 a:visited {
+  color: ;
+}
+a:hover {
+  color: whitesmoke;
