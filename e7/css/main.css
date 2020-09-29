@@ -24,8 +24,8 @@ p {
   text-align: left;
   font-style: normal;
 }
- #signature {
-  font-style: normal;
+#signature {
+  font-style: italic;
   font-weight: bold;
   font-size: 30px;
 }
