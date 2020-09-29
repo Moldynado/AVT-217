@@ -33,9 +33,7 @@ p {
 }
 ul {
     list-style-type: none;
-}
-a:visited {
-  color: none;
+    text-decoration: none;
 }
 a:link {
   color: #66CDAA;
