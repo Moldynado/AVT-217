@@ -38,7 +38,7 @@ a:visited {
   color: none;
 }
 a:link {
-  list-style-type: lower-alpha;
+  color: #66CDAA;
 }
 a:hover {
   color: whitesmoke;
