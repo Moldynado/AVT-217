@@ -25,7 +25,9 @@ a:hover {
 a:visited {
   color: none;
 }
+a:link {
+  color: purple;
+}
 ul {
   list-style-type: none;
-  color: purple;
 }
