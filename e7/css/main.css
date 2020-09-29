@@ -1,0 +1,24 @@
+* {
+  margin: 100;
+  padding: 50;
+  box-sizing:100; border-box:100;
+}
+body {
+  background-color: #BDB76B;
+  color: tomato;
+  font-size: 25px;
+  font-family: 'Kanit', sans-serif;
+  font-style: italic;
+
+}
+h1 {
+  letter-spacing: 5px;
+  font-size: 150px;
+  font-family: 'Kanit', sans-serif;
+  margin-top: 0;
+  margin-bottom:0
+}
+h1, h2, h3{
+  text-align: center;
+}
+  
