@@ -33,7 +33,7 @@ p {
 }
 ul {
     list-style-type: none;
-    text-decoration: inherit;
+    text-decoration: 0;
 }
 a:link {
   color: #66CDAA;
