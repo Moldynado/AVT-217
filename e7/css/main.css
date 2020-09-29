@@ -4,7 +4,7 @@
   box-sizing:100; border-box:100;
 }
 body {
-  background-color: #BDB76B;
+  background-color: #darkkhaki;
   color: tomato;
   font-size: 25px;
   font-family: 'Kanit', sans-serif;
@@ -21,4 +21,3 @@ h1 {
 h1, h2, h3{
   text-align: center;
 }
-  
