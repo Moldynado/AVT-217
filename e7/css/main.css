@@ -21,7 +21,7 @@ h1, h2, h3{
   font-style: italic;
 }
 p {
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   text-align: left;
   font-style: bold;
   margin: 30; margin-left: 20; margin-right: 20
