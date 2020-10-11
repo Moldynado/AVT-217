@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box 50px;
+  padding: 50px;
+  margin: 100px;
 }
 body {
   text-align: center;
