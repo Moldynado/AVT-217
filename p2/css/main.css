@@ -1,12 +1,12 @@
 * {
-  box-sizing:500px border-box 50px;
+  box-sizing: border-box 50px;
   padding: 25px;
-  margin: 50px;
+  margin: 40px;
 }
 body {
   text-align: center;
-  font-family: arya-double, sans-serif;
+  font-family: arya-triple-slant, sans-serif;
   font-style: normal;
-  font-weight: 800;
+  font-weight: 1000;
   list-style: none;
 }
