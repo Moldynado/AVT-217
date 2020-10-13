@@ -12,9 +12,32 @@ body {
   text-align: center;
   list-style-type: none;
 }
+header {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: #B0C4DE
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  background-color:#FFA07A;
+  display: flow-root;
+}
+.col {
+  width:50%;
+  background-color: #DB7093;
+  float: left;
+}
 h1 {
   letter-spacing: 5px;
   font-size: 200px;
+  font-family: 'Kanit', sans-serif;
+  margin-top: 0;
+  margin-bottom:0
+}
+h2 {
+  letter-spacing: 5px;
+  font-size: 90px;
   font-family: 'Kanit', sans-serif;
   margin-top: 0;
   margin-bottom:0
