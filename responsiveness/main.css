@@ -1,0 +1,25 @@
+@media screen and (max-width: 1200px) {
+  body {
+    background-color: cornsilk
+  }
+}
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: darkcyan
+  }
+}
+@media screen and (max-width: 800px) {
+  body {
+    background-color: darksalmon
+  }
+}
+@media screen and (max-width: 500px) {
+  body {
+    background-color: honeydew
+  }
+}
+@media screen and (max-width: 350px) {
+  body {
+    background-color: mistyrose
+  }
+}
