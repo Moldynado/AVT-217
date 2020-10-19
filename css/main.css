@@ -4,7 +4,7 @@
   box-sizing:500; border-box:500;
 }
 body {
-  background-color: #111111;
+  background-color: darkslateblue;
   color: red;
   font-size: 25px;
   font-family: 'Kanit', sans-serif;
@@ -15,17 +15,14 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: #B0C4DE
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color:#FFA07A;
   display: flow-root;
 }
 .col {
   width:50%;
-  background-color: #DB7093;
   float: left;
 }
 h1 {
@@ -33,7 +30,7 @@ h1 {
   font-size: 200px;
   font-family: 'Kanit', sans-serif;
   margin-top: 0;
-  margin-bottom:0
+  margin-bottom:100px
 }
 h2 {
   letter-spacing: 5px;
@@ -46,8 +43,21 @@ a:hover {
   color: yellow;
 }
 a:link {
-  color: #66CDAA;
+  color: Darkorange;
 }
 ul {
   list-style-type: none;
 }
+@media screen and (max-width: 1205px) {
+  .col {
+    width:100%;
+  }
+  header {
+    width: 90vw;
+  }
+  main {
+    width: 90vw;
+  }
+  h1 {
+    font-size: 12rem
+  }
