@@ -6,7 +6,7 @@ body {
 }
 .board {
   width: 900px;
-  background-color: green;
+  background-color: cornsilk;
   padding: 50px;
   display: flow-root;
   margin: 25px auto;
