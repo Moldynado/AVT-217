@@ -1,0 +1,241 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: lavenderblush;
+  overflow-x: hidden;
+}
+main {
+ width: 150vw
+ margin: -300px -25vw;
+}
+.shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: darkslateblue;
+  margin: 50px -20px;
+  float: left;
+  opacity: .6
+}
+.shape2 {
+  width: 100px;
+  height: 150px;
+  background-color: darksalmon;
+  margin: -50px -100px 50px -25px;
+  float: left;
+}
+.shape3 {
+  width: 200px;
+  height: 200px;
+  background-color: royalblue;
+  margin: -50px;
+  float: left;
+  border-radius: 50%;
+  opacity: .3
+}
+.shape4 {
+  width: 150px;
+  height: 100px;
+  background-color: indianred;
+  margin: -15px -50px;
+  float: left;
+  border-radius: 20px;
+}
+.shape5 {
+  width: 100px;
+  height: 100px;
+  background-color: darkcyan;
+  margin: 50px -5px;
+  float:left;
+  border-radius: 30px;
+}
+.shape6 {
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+  border-radius: 50%;
+  float: left;
+  margin: -25px -100px -80px;
+}
+.shape7 {
+  width: 100px;
+  height: 100px;
+  background-color: powderblue;
+  float: left;
+  margin: 25px -100px
+}
+.shape8 {
+  width: 100px;
+  height: 100px;
+  background-color: sandybrown;
+  border-radius: 50%;
+  float: left;
+  margin: 25px -50px 80px;
+}
+.shape9 {
+  width: 100px;
+  height: 100px;
+  background-color: midnightblue;
+  float: left;
+  margin: -10px -80px;
+  opacity: .8
+}
+.shape10 {
+  width: 100px;
+  height: 100px;
+  background-color: navyblue;
+  float: left;
+  margin: -15px -50px;
+  opacity: .8
+}
+.shape11 {
+  width: 100px;
+  height: 100px;
+  background-color: lightsalmon;
+  float: left;
+  margin: -15px -5px;
+  opacity: .8
+}
+.shape12 {
+  width: 100px;
+  height: 100px;
+  background-color: rosybrown;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: -20px;
+  margin-left: -100px;
+  margin-right: -50px;
+  opacity: .8
+}
+.shape13 {
+  width: 100px;
+  height: 100px;
+  background-color: slateblue;
+  float: left;
+  margin: -15px -6px;
+  opacity: .8;
+  border-radius: 50%
+}
+.shape14 {
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+  float: left;
+  margin: -15px -8px;
+  opacity: .8
+}
+.shape15 {
+  width: 110px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+  margin: -15px -10px -80px -50px;
+  opacity: .8
+}
+.shape16 {
+  width: 110px;
+  height: 200px;
+  background-color: cyan;
+  float: left;
+  margin: -20px -10px;
+  opacity: .8
+}
+.shape17 {
+  width: 110px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+  margin: -10px -10px;
+  opacity: .8
+}
+.shape18 {
+  width: 110px;
+  height: 100px;
+  background-color: gold;
+  float: left;
+  margin: -50px;
+  opacity: .8
+}
+.shape19 {
+  width: 110px;
+  height: 140px;
+  background-color: crimson;
+  float: left;
+  margin: -15px -10px -80px -50px;
+  opacity: .8
+}
+.shape20 {
+  width: 200px;
+  height: 200px;
+  background-color: darkslateblue;
+  float: left;
+  margin: -250px;
+  opacity: .8;
+  border-bottom-left-radius: 30px;
+}
+.shape21 {
+  width: 150px;
+  height: 150px;
+  background-color: yellowgreen;
+  float: left;
+  margin: -5px -50px -10px -20px;
+  border-radius: 50%
+}
+.shape22 {
+  width: 130px;
+  height: 100px;
+  background-color: chocolate;
+  float: left;
+  margin: -15px -10px -80px -50px;
+  opacity: .8
+}
+.shape23 {
+  width:0;
+  height:0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid gold;
+  border-bottom: 150px solid darkcyan;
+  float: left;
+  margin: -30px;
+  margin-top: 10px;
+}
+.shape24 {
+  width:0;
+  height:0;
+  border-left: 60px solid darkseagreen;
+  border-right: 60px solid transparent;
+  border-bottom: 100px solid crimson;
+  margin-top: -20px;
+  margin-left: 20px;
+  float: left;
+}
+.shape25 {
+  width:0;
+  height:0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid darkseagreen;
+  border-bottom: 100px solid darkseagreen;
+  margin-top: -20px;
+  float: left;
+}
+.shape26 {
+  width:0;
+  height:0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid chocolate;
+  border-bottom: 100px solid palevioletred;
+  margin-top: -20px;
+  margin-left: -50px;
+  margin-bottom: -50px;
+  float: left;
+}
+.shape27 {
+  width:0;
+  height:0;
+  border-left: 60px solid midnightblue;
+  border-right: 60px solid transparent;
+  border-bottom: 100px solid tomato;
+  margin-top: -50px;
+  float: left;
+}
