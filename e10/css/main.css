@@ -21,3 +21,33 @@ body {
 .black {
   background-color: black;
 }
+main {
+  margin: 20px 180px 180px;
+  display: flow-root;
+}
+.header, .subhead {
+  margin-bottom: 20px
+}
+.header {
+  width: 1000px;
+  height:100px;
+  background-color: Darkslateblue
+}
+.subhead {
+  width: 1000px;
+  height: 50px;
+  background-color: darkslateblue
+}
+.column1, .column2, .column3 {
+  width: 310px;
+  height: 450px;
+  background-color: darkslateblue;
+  float: left;
+  margin: 10px;
+}
+.footer {
+  width: 1000px;
+  height:100px;
+  background-color: Darkslateblue;
+  margin-top: 500px;
+}
