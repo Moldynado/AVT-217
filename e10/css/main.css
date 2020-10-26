@@ -5,15 +5,14 @@ body {
   margin: 0;
 }
 .board {
-  width: 900px;
+  width: 40vw;
   background-color: cornsilk;
-  padding: 50px;
   display: flow-root;
   margin: 25px auto;
 }
 .red, .black {
-  width: 100px;
-  height: 100px;
+  width: 5vw;
+  height: 5vw;
   float:left;
 }
 .red {
