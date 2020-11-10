@@ -1,22 +1,56 @@
 * {
   box-sizing: border-box;
-  padding: 5px;
-  margin:0px
+  margin:0px;
 }
 body {
   text-align: center;
   font-family: Alfarn, sans-serif;
-  background-color: lightcoral
+  font-style: normal;
+  background-color: cornsilk;
+}
+header {
+  background-color: darkred;
+  height: 200px;
+  width: 1368px;
+  padding-top: 50px;
+}
+main {
+  margin-top: 50px;
 }
 h1 {
-  font-size: 200px:
+  color: darkseagreen;
+  font-size: 50px;
 }
 h2 {
-  font-size: 100px;
+  color: goldenrod;
+  font-size: 30px;
+}
+h3 {
+  color: darkred;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h4 {
+  color: darkred;
+  font-size: 20px;
+  margin-bottom:0px;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 ul {
+  color: goldenrod;
+    font-size: 15px;
     list-style-type: none;
 }
-a:link {
-  color: green
+a:visited {
+  color: goldenrod;
+}
+a:hover {
+  color: darkseagreen;
 }
