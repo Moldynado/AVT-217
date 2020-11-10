@@ -5,13 +5,14 @@
 }
 body {
   text-align: center;
-  font-family: virna, sans-serif;
-  font-style: normal;
+  font-family: Alfarn, sans-serif;
   background-color: lightcoral
 }
 h1 {
-  font-size: 100px:
-  font-style: italic;
+  font-size: 200px:
+}
+h2 {
+  font-size: 100px;
 }
 ul {
     list-style-type: none;
