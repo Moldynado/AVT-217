@@ -6,13 +6,24 @@ body {
   text-align: center;
   font-family: Alfarn, sans-serif;
   font-style: normal;
+  font-size: 60px;
+  color: goldenrod;
   background-color: cornsilk;
 }
 header {
   background-color: darkred;
   height: 200px;
-  width: 1700px;
+  width: 100%;
   padding-top: 50px;
+}
+footer {
+  margin-top: 200px;
+  background-color: darkred;
+  height: 100px;
+  width: 100%;
+  padding-top: 50px;
+  float: none;
+  display: flow-root;
 }
 main {
   margin-top: 50px;
@@ -24,6 +35,7 @@ h1 {
 h2 {
   color: goldenrod;
   font-size: 30px;
+  margin-top: 20px;
 }
 h3 {
   color: darkred;
@@ -37,16 +49,21 @@ h4 {
   margin-bottom:0px;
 }
 p {
-  text-align: center;
-  font-size: 15px;
-  margin-bottom: 10px;
+  font-family: bahnschrift, sans-serif;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 30px;
   margin-left: 50px;
   margin-right: 50px;
+  color:black;
 }
 ul {
   color: goldenrod;
     font-size: 15px;
     list-style-type: none;
+}
+a {
+  text-decoration: none;
 }
 a:visited {
   color: goldenrod;
@@ -54,6 +71,71 @@ a:visited {
 a:hover {
   color: darkseagreen;
 }
+.pics {
+  margin: 150px;
+}
 img {
-  max-width: 1368px;
+  max-width: 50%;
+  max-height: 50%;
+  float: left;
+  display: flow-root;
+}
+.home {
+  text-decoration: none;
+}
+.about {
+  text-align: left;
+}
+.container {
+  position: relative;
+  text-align: center;
+
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-125%, 250%);
+}
+.centered2 {
+  position: absolute;
+  top: 87%;
+  left: 32.3%;
+  transform: translate(-125%, 220%);
+  font-size: 48px;
+}
+.centered3 {
+  position: absolute;
+  top: 50%;
+  left: 64%;
+  transform: translate(-30%, 120%);
+  font-size: 45px;
+}
+.column {
+  float: left;
+  width: 55%;
+  height:50%;
+}
+.container2 {
+  height: 600px;
+  background-color: darkred;
+  margin-left:500px;
+  margin-right: 150px;
+  display: grid
+}
+.pine {
+  position: absolute;
+  top: 85%;
+  left: 64%;
+  transform: translate(-30%, 120%);
+  font-size: 25px;
+}
+.hours {
+  width: 250px;
+  height: 425px;
+  background-color: cornsilk;
+  position: absolute;
+  top: -8%;
+  left: 90%;
+  transform: translate(-101%, 79.8%);
 }
