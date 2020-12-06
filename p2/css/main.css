@@ -139,3 +139,33 @@ img {
   left: 90%;
   transform: translate(-101%, 79.8%);
 }
+/**responsiveness**/
+@media screen and (max-width: 1440px) {
+  body {
+    width: 100%;
+  }
+  @media screen and (max-width: 1300px) {
+    body {
+      width: 80%;
+    }
+    @media screen and (max-width: 1240px) {
+      body {
+        width: 70%;
+      }
+      @media screen and (max-width: 1000px) {
+        body {
+          width: 60%;
+        }
+        @media screen and (max-width: 800px) {
+          body {
+            width: 50%;
+          }
+          @media screen and (max-width: 500px) {
+            body {
+              width: 40%;
+            }
+            @media screen and (max-width: 320px) {
+              body {
+                width: 30%;
+              }
+}
